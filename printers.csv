@@ -1,0 +1,5 @@
+PkgVersion,OldPrinterName,NewPrinterName,NewPrinterLocation,NewPrinterDriverLocation,NewPrinterIP,PrinterOptions,PackageName,DriverLocation
+1,Computerwagen_4-1,CW41-01,CW4-1,/Library/Printers/PPDs/Contents/Resources/TAP6031DN.ppd,ipp://cw41-01.kzu.local,printer-is-shared=false,printer-cw41,https://download.ks-buelach.ch/macos/drivers/HewlettPackardPrinterDrivers.pkg.zip
+1,Computerwagen_2-1,CW21-01,CW2-1,/Library/Printers/PPDs/Contents/Resources/TAP6031DN.ppd,ipp://cw21-01.kzu.local,printer-is-shared=false,printer-cw21,https://download.ks-buelach.ch/macos/drivers/HewlettPackardPrinterDrivers.pkg.zip
+1,,CW66-01,CW6-6,/Library/Printers/PPDs/Contents/Resources/TAP6031DN.ppd,ipp://cw66-01.kzu.local,printer-is-shared=false,printer-cw66,https://download.ks-buelach.ch/macos/drivers/HewlettPackardPrinterDrivers.pkg.zip
+
