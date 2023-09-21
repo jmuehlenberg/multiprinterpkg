@@ -54,7 +54,3 @@ This repository contains a shell script that automates the creation of macOS pac
 ## Customization
 
 If you need to add specific printer options, include them in the last column of your `printers.csv` in the form of `option1=value1 option2=value2`.
-
-## License
-
-This project is open source under the MIT license.
